@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Module xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/BUTR/Bannerlord.XmlSchemas/master/SubModule.xsd">
-  <Id value="BattleHeroSwitch" />
-  <Name value="临阵换将" />
-  <Version value="v0.1.0" />
+  <Id value="$moduleid$" />
+  <Name value="$modulename$" />
+  <Version value="v$version$" />
   <DefaultModule value="false" />
   <ModuleCategory value="Singleplayer" />
   <ModuleType value="Community" />
@@ -22,9 +22,9 @@
   </DependedModuleMetadatas>
   <SubModules>
     <SubModule>
-      <Name value="临阵换将" />
-      <DLLName value="BattleHeroSwitch.dll" />
-      <SubModuleClassType value="BattleHeroSwitch.SubModule" />
+      <Name value="$modulename$" />
+      <DLLName value="$moduleid$.dll" />
+      <SubModuleClassType value="$moduleid$.SubModule" />
       <Tags />
     </SubModule>
   </SubModules>

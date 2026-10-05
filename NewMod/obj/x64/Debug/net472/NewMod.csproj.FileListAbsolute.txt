@@ -1,9 +1,0 @@
-E:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\Modules\NewMod\NewMod\bin\x64\Debug\net472\NewMod.dll
-E:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\Modules\NewMod\NewMod\bin\x64\Debug\net472\NewMod.pdb
-E:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\Modules\NewMod\NewMod\obj\x64\Debug\net472\NewMod.csproj.AssemblyReference.cache
-E:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\Modules\NewMod\NewMod\obj\x64\Debug\net472\NewMod.GeneratedMSBuildEditorConfig.editorconfig
-E:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\Modules\NewMod\NewMod\obj\x64\Debug\net472\NewMod.AssemblyInfoInputs.cache
-E:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\Modules\NewMod\NewMod\obj\x64\Debug\net472\NewMod.AssemblyInfo.cs
-E:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\Modules\NewMod\NewMod\obj\x64\Debug\net472\NewMod.csproj.CoreCompileInputs.cache
-E:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\Modules\NewMod\NewMod\obj\x64\Debug\net472\NewMod.dll
-E:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\Modules\NewMod\NewMod\obj\x64\Debug\net472\NewMod.pdb
